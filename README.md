@@ -1,0 +1,2 @@
+# Comprehensive-Power-BI-Dashboard-for-Sales-Insights
+ This project delivers business intelligence solution to analyze a client’s 2019 sales data. It provides insights into total revenue, seasonal trends, product performance, city-wise deliveries, and category comparisons, aiming to enhance sales and operational efficiency. The dataset covers various months and cities for a comprehensive analysis.
